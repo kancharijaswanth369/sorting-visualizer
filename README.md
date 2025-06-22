@@ -2,7 +2,7 @@
 
 An interactive, educational sorting visualizer built using **Python** and **Pygame**. Watch popular sorting algorithms come to life with smooth animations and color-coded operations.
 
-![Screenshot](preview.png) <!-- Add a screenshot image if you have one -->
+
 
 ---
 
